@@ -146,7 +146,7 @@ pip freeze > requirements.txt
 
 ---
 
-## ❤Acknowledgements
+## Acknowledgements
 
 - Flask documentation: https://flask.palletsprojects.com/
 - SQLAlchemy ORM: https://www.sqlalchemy.org/
