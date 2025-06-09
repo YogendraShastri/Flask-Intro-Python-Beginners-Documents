@@ -19,7 +19,7 @@ flask_crud_api/
 └── README.md           # You're reading this!
 ```
 
-## 📦 Technologies Used
+## Technologies Used
 
 - Python 3.10
 - Flask
